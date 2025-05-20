@@ -29,4 +29,4 @@ If you'd like to run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Meet-official/Yogasan.git
